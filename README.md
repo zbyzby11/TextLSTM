@@ -5,4 +5,4 @@
 以下命令来运行程序：
 
 cd src
-python3 train.py
+python3 Text.py
